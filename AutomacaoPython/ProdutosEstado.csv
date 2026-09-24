@@ -1,0 +1,530 @@
+﻿Produto,Estado,Quantidade
+Air Fryer,Amazonas,7
+Air Fryer,Bahia,1
+Air Fryer,Ceará,5
+Air Fryer,Distrito Federal,9
+Air Fryer,Espírito Santo,7
+Air Fryer,Mato Grosso do Sul,12
+Air Fryer,Minas Gerais,7
+Air Fryer,Paraná,3
+Air Fryer,Paraíba,7
+Air Fryer,Pará,7
+Air Fryer,Pernambuco,5
+Air Fryer,Rio Grande do Sul,10
+Air Fryer,Rio de Janeiro,13
+Air Fryer,Rondônia,6
+Air Fryer,Santa Catarina,1
+Air Fryer,São Paulo,24
+Aspirador de Pó,Amazonas,6
+Aspirador de Pó,Bahia,11
+Aspirador de Pó,Distrito Federal,1
+Aspirador de Pó,Espírito Santo,6
+Aspirador de Pó,Goiás,3
+Aspirador de Pó,Mato Grosso,1
+Aspirador de Pó,Minas Gerais,14
+Aspirador de Pó,Paraná,12
+Aspirador de Pó,Paraíba,3
+Aspirador de Pó,Pará,1
+Aspirador de Pó,Pernambuco,5
+Aspirador de Pó,Rio Grande do Sul,14
+Aspirador de Pó,Rio de Janeiro,10
+Aspirador de Pó,Santa Catarina,4
+Aspirador de Pó,São Paulo,7
+Bicicleta Aro 29,Ceará,6
+Bicicleta Aro 29,Espírito Santo,3
+Bicicleta Aro 29,Goiás,2
+Bicicleta Aro 29,Mato Grosso,1
+Bicicleta Aro 29,Mato Grosso do Sul,3
+Bicicleta Aro 29,Paraíba,1
+Bicicleta Aro 29,Pará,1
+Bicicleta Aro 29,Rio Grande do Sul,5
+Bicicleta Aro 29,Rondônia,3
+Bicicleta Aro 29,Santa Catarina,1
+Bicicleta Aro 29,São Paulo,4
+Blusa de Frio,Amazonas,1
+Blusa de Frio,Bahia,14
+Blusa de Frio,Ceará,5
+Blusa de Frio,Distrito Federal,5
+Blusa de Frio,Espírito Santo,14
+Blusa de Frio,Goiás,7
+Blusa de Frio,Mato Grosso,7
+Blusa de Frio,Minas Gerais,5
+Blusa de Frio,Paraná,9
+Blusa de Frio,Pernambuco,14
+Blusa de Frio,Rio Grande do Sul,2
+Blusa de Frio,Rio de Janeiro,13
+Blusa de Frio,Rondônia,9
+Blusa de Frio,Santa Catarina,10
+Blusa de Frio,São Paulo,19
+Bola de Futebol,Amazonas,2
+Bola de Futebol,Bahia,8
+Bola de Futebol,Ceará,5
+Bola de Futebol,Distrito Federal,2
+Bola de Futebol,Espírito Santo,19
+Bola de Futebol,Goiás,1
+Bola de Futebol,Mato Grosso do Sul,6
+Bola de Futebol,Minas Gerais,8
+Bola de Futebol,Paraná,2
+Bola de Futebol,Paraíba,2
+Bola de Futebol,Pernambuco,4
+Bola de Futebol,Rio Grande do Sul,23
+Bola de Futebol,Rio de Janeiro,11
+Bola de Futebol,Santa Catarina,5
+Bola de Futebol,São Paulo,4
+Cadeira de Escritório,Amazonas,1
+Cadeira de Escritório,Bahia,6
+Cadeira de Escritório,Ceará,1
+Cadeira de Escritório,Distrito Federal,9
+Cadeira de Escritório,Espírito Santo,18
+Cadeira de Escritório,Goiás,3
+Cadeira de Escritório,Mato Grosso,1
+Cadeira de Escritório,Minas Gerais,5
+Cadeira de Escritório,Paraná,6
+Cadeira de Escritório,Paraíba,2
+Cadeira de Escritório,Pará,1
+Cadeira de Escritório,Rio Grande do Sul,12
+Cadeira de Escritório,Rio de Janeiro,3
+Cadeira de Escritório,Rondônia,1
+Cadeira de Escritório,Santa Catarina,4
+Cadeira de Escritório,São Paulo,4
+Caixa de Som Portátil,Amazonas,1
+Caixa de Som Portátil,Bahia,1
+Caixa de Som Portátil,Ceará,3
+Caixa de Som Portátil,Distrito Federal,4
+Caixa de Som Portátil,Espírito Santo,7
+Caixa de Som Portátil,Mato Grosso do Sul,2
+Caixa de Som Portátil,Minas Gerais,11
+Caixa de Som Portátil,Paraná,1
+Caixa de Som Portátil,Paraíba,4
+Caixa de Som Portátil,Pará,47
+Caixa de Som Portátil,Rio Grande do Sul,9
+Caixa de Som Portátil,Rio de Janeiro,10
+Caixa de Som Portátil,Rondônia,3
+Caixa de Som Portátil,Santa Catarina,9
+Caixa de Som Portátil,São Paulo,8
+Calça Jeans,Bahia,18
+Calça Jeans,Ceará,14
+Calça Jeans,Espírito Santo,10
+Calça Jeans,Goiás,1
+Calça Jeans,Minas Gerais,24
+Calça Jeans,Paraná,15
+Calça Jeans,Paraíba,10
+Calça Jeans,Pará,6
+Calça Jeans,Pernambuco,5
+Calça Jeans,Rio Grande do Sul,10
+Calça Jeans,Rio de Janeiro,14
+Calça Jeans,Rondônia,23
+Calça Jeans,Santa Catarina,6
+Calça Jeans,São Paulo,13
+Camiseta Básica,Bahia,5
+Camiseta Básica,Ceará,14
+Camiseta Básica,Distrito Federal,12
+Camiseta Básica,Espírito Santo,18
+Camiseta Básica,Goiás,9
+Camiseta Básica,Mato Grosso,7
+Camiseta Básica,Mato Grosso do Sul,10
+Camiseta Básica,Minas Gerais,13
+Camiseta Básica,Paraná,14
+Camiseta Básica,Paraíba,6
+Camiseta Básica,Pará,14
+Camiseta Básica,Pernambuco,18
+Camiseta Básica,Rio Grande do Sul,3
+Camiseta Básica,Rio de Janeiro,37
+Camiseta Básica,Rondônia,3
+Camiseta Básica,Santa Catarina,24
+Camiseta Básica,São Paulo,26
+Carteira de Couro,Bahia,13
+Carteira de Couro,Ceará,5
+Carteira de Couro,Distrito Federal,3
+Carteira de Couro,Espírito Santo,10
+Carteira de Couro,Goiás,5
+Carteira de Couro,Mato Grosso,7
+Carteira de Couro,Mato Grosso do Sul,1
+Carteira de Couro,Minas Gerais,3
+Carteira de Couro,Paraná,10
+Carteira de Couro,Paraíba,13
+Carteira de Couro,Pernambuco,4
+Carteira de Couro,Rio Grande do Sul,2
+Carteira de Couro,Rio de Janeiro,11
+Carteira de Couro,Santa Catarina,1
+Carteira de Couro,São Paulo,25
+Cinto de Couro,Amazonas,8
+Cinto de Couro,Bahia,2
+Cinto de Couro,Ceará,5
+Cinto de Couro,Espírito Santo,24
+Cinto de Couro,Mato Grosso,3
+Cinto de Couro,Mato Grosso do Sul,6
+Cinto de Couro,Minas Gerais,16
+Cinto de Couro,Paraná,7
+Cinto de Couro,Paraíba,4
+Cinto de Couro,Pernambuco,5
+Cinto de Couro,Rio Grande do Sul,8
+Cinto de Couro,Rio de Janeiro,21
+Cinto de Couro,Rondônia,2
+Cinto de Couro,Santa Catarina,2
+Cinto de Couro,São Paulo,17
+Fone Bluetooth,Amazonas,7
+Fone Bluetooth,Bahia,11
+Fone Bluetooth,Ceará,4
+Fone Bluetooth,Distrito Federal,1
+Fone Bluetooth,Espírito Santo,19
+Fone Bluetooth,Mato Grosso,5
+Fone Bluetooth,Mato Grosso do Sul,16
+Fone Bluetooth,Minas Gerais,16
+Fone Bluetooth,Paraná,22
+Fone Bluetooth,Paraíba,18
+Fone Bluetooth,Pará,6
+Fone Bluetooth,Pernambuco,14
+Fone Bluetooth,Rio Grande do Sul,7
+Fone Bluetooth,Rio de Janeiro,15
+Fone Bluetooth,Rondônia,16
+Fone Bluetooth,Santa Catarina,10
+Fone Bluetooth,São Paulo,21
+Garrafa Térmica Esportiva,Amazonas,4
+Garrafa Térmica Esportiva,Bahia,11
+Garrafa Térmica Esportiva,Ceará,7
+Garrafa Térmica Esportiva,Distrito Federal,1
+Garrafa Térmica Esportiva,Espírito Santo,10
+Garrafa Térmica Esportiva,Goiás,3
+Garrafa Térmica Esportiva,Mato Grosso,5
+Garrafa Térmica Esportiva,Mato Grosso do Sul,6
+Garrafa Térmica Esportiva,Minas Gerais,3
+Garrafa Térmica Esportiva,Paraná,9
+Garrafa Térmica Esportiva,Paraíba,5
+Garrafa Térmica Esportiva,Pará,9
+Garrafa Térmica Esportiva,Pernambuco,4
+Garrafa Térmica Esportiva,Rio Grande do Sul,19
+Garrafa Térmica Esportiva,Rio de Janeiro,12
+Garrafa Térmica Esportiva,Rondônia,4
+Garrafa Térmica Esportiva,Santa Catarina,13
+Garrafa Térmica Esportiva,São Paulo,27
+HD Externo 1TB,Amazonas,13
+HD Externo 1TB,Ceará,5
+HD Externo 1TB,Espírito Santo,4
+HD Externo 1TB,Goiás,1
+HD Externo 1TB,Minas Gerais,5
+HD Externo 1TB,Paraná,10
+HD Externo 1TB,Paraíba,3
+HD Externo 1TB,Pará,3
+HD Externo 1TB,Pernambuco,8
+HD Externo 1TB,Rio Grande do Sul,13
+HD Externo 1TB,Rio de Janeiro,10
+HD Externo 1TB,Rondônia,3
+HD Externo 1TB,Santa Catarina,1
+HD Externo 1TB,São Paulo,20
+Jaqueta Corta-Vento,Amazonas,2
+Jaqueta Corta-Vento,Bahia,4
+Jaqueta Corta-Vento,Distrito Federal,1
+Jaqueta Corta-Vento,Espírito Santo,13
+Jaqueta Corta-Vento,Goiás,2
+Jaqueta Corta-Vento,Mato Grosso,4
+Jaqueta Corta-Vento,Minas Gerais,5
+Jaqueta Corta-Vento,Paraná,7
+Jaqueta Corta-Vento,Pará,10
+Jaqueta Corta-Vento,Pernambuco,2
+Jaqueta Corta-Vento,Rio Grande do Sul,13
+Jaqueta Corta-Vento,Rio de Janeiro,20
+Jaqueta Corta-Vento,Rondônia,2
+Jaqueta Corta-Vento,Santa Catarina,5
+Jaqueta Corta-Vento,São Paulo,17
+Jogo de Cama Queen,Amazonas,7
+Jogo de Cama Queen,Bahia,4
+Jogo de Cama Queen,Ceará,6
+Jogo de Cama Queen,Distrito Federal,1
+Jogo de Cama Queen,Espírito Santo,13
+Jogo de Cama Queen,Goiás,1
+Jogo de Cama Queen,Mato Grosso,8
+Jogo de Cama Queen,Minas Gerais,5
+Jogo de Cama Queen,Paraná,11
+Jogo de Cama Queen,Paraíba,5
+Jogo de Cama Queen,Pernambuco,11
+Jogo de Cama Queen,Rio Grande do Sul,3
+Jogo de Cama Queen,Rio de Janeiro,14
+Jogo de Cama Queen,Santa Catarina,7
+Jogo de Cama Queen,São Paulo,22
+Kit Canetas Executivas,Bahia,3
+Kit Canetas Executivas,Distrito Federal,3
+Kit Canetas Executivas,Espírito Santo,11
+Kit Canetas Executivas,Goiás,2
+Kit Canetas Executivas,Mato Grosso,6
+Kit Canetas Executivas,Mato Grosso do Sul,7
+Kit Canetas Executivas,Minas Gerais,10
+Kit Canetas Executivas,Pará,1
+Kit Canetas Executivas,Pernambuco,9
+Kit Canetas Executivas,Rio Grande do Sul,1
+Kit Canetas Executivas,Rio de Janeiro,18
+Kit Canetas Executivas,Rondônia,5
+Kit Canetas Executivas,Santa Catarina,1
+Kit Canetas Executivas,São Paulo,9
+Kit Halteres 10kg,Amazonas,4
+Kit Halteres 10kg,Bahia,1
+Kit Halteres 10kg,Ceará,8
+Kit Halteres 10kg,Distrito Federal,3
+Kit Halteres 10kg,Espírito Santo,4
+Kit Halteres 10kg,Goiás,17
+Kit Halteres 10kg,Mato Grosso,2
+Kit Halteres 10kg,Mato Grosso do Sul,6
+Kit Halteres 10kg,Minas Gerais,7
+Kit Halteres 10kg,Paraná,6
+Kit Halteres 10kg,Rio de Janeiro,1
+Kit Halteres 10kg,Rondônia,8
+Kit Halteres 10kg,Santa Catarina,6
+Kit Halteres 10kg,São Paulo,26
+Liquidificador,Amazonas,3
+Liquidificador,Bahia,20
+Liquidificador,Distrito Federal,1
+Liquidificador,Espírito Santo,18
+Liquidificador,Goiás,12
+Liquidificador,Mato Grosso do Sul,5
+Liquidificador,Minas Gerais,94
+Liquidificador,Paraná,20
+Liquidificador,Paraíba,4
+Liquidificador,Pará,14
+Liquidificador,Pernambuco,1
+Liquidificador,Rio Grande do Sul,13
+Liquidificador,Rio de Janeiro,13
+Liquidificador,Rondônia,8
+Liquidificador,Santa Catarina,4
+Liquidificador,São Paulo,6
+Mesa para Computador,Amazonas,2
+Mesa para Computador,Ceará,2
+Mesa para Computador,Espírito Santo,13
+Mesa para Computador,Mato Grosso,4
+Mesa para Computador,Mato Grosso do Sul,7
+Mesa para Computador,Minas Gerais,7
+Mesa para Computador,Paraná,4
+Mesa para Computador,Rio Grande do Sul,2
+Mesa para Computador,Rio de Janeiro,7
+Mesa para Computador,Rondônia,1
+Mesa para Computador,Santa Catarina,1
+Mochila Executiva,Bahia,1
+Mochila Executiva,Ceará,5
+Mochila Executiva,Distrito Federal,6
+Mochila Executiva,Espírito Santo,14
+Mochila Executiva,Mato Grosso,13
+Mochila Executiva,Mato Grosso do Sul,16
+Mochila Executiva,Minas Gerais,11
+Mochila Executiva,Paraná,4
+Mochila Executiva,Paraíba,6
+Mochila Executiva,Pará,2
+Mochila Executiva,Pernambuco,2
+Mochila Executiva,Rio Grande do Sul,6
+Mochila Executiva,Rio de Janeiro,12
+Mochila Executiva,Santa Catarina,1
+Mochila Executiva,São Paulo,5
+Monitor 24,Amazonas,3
+Monitor 24,Bahia,1
+Monitor 24,Ceará,3
+Monitor 24,Goiás,1
+Monitor 24,Mato Grosso do Sul,5
+Monitor 24,Minas Gerais,7
+Monitor 24,Paraná,3
+Monitor 24,Paraíba,2
+Monitor 24,Pernambuco,1
+Monitor 24,Rio Grande do Sul,1
+Monitor 24,Rio de Janeiro,5
+Monitor 24,Rondônia,2
+Monitor 24,Santa Catarina,5
+Monitor 24,São Paulo,5
+Mouse Sem Fi,Distrito Federal,2
+Mouse Sem Fio,Amazonas,7
+Mouse Sem Fio,Bahia,19
+Mouse Sem Fio,Ceará,24
+Mouse Sem Fio,Distrito Federal,5
+Mouse Sem Fio,Espírito Santo,11
+Mouse Sem Fio,Goiás,5
+Mouse Sem Fio,Mato Grosso,10
+Mouse Sem Fio,Mato Grosso do Sul,7
+Mouse Sem Fio,Minas Gerais,19
+Mouse Sem Fio,Paraná,23
+Mouse Sem Fio,Paraíba,2
+Mouse Sem Fio,Pará,10
+Mouse Sem Fio,Pernambuco,7
+Mouse Sem Fio,Rio Grande do Sul,14
+Mouse Sem Fio,Rio de Janeiro,8
+Mouse Sem Fio,Rondônia,4
+Mouse Sem Fio,Santa Catarina,36
+Mouse Sem Fio,São Paulo,43
+Notebook Pro 15,Espírito Santo,1
+Notebook Pro 15,Minas Gerais,1
+Notebook Pro 15,Paraná,2
+Notebook Pro 15,Rio Grande do Sul,1
+Notebook Pro 15,Rio de Janeiro,1
+Notebook Pro 15,São Paulo,1
+Organizador de Mesa,Amazonas,3
+Organizador de Mesa,Bahia,16
+Organizador de Mesa,Ceará,6
+Organizador de Mesa,Distrito Federal,3
+Organizador de Mesa,Espírito Santo,40
+Organizador de Mesa,Goiás,4
+Organizador de Mesa,Mato Grosso,2
+Organizador de Mesa,Mato Grosso do Sul,1
+Organizador de Mesa,Minas Gerais,35
+Organizador de Mesa,Paraná,32
+Organizador de Mesa,Paraíba,3
+Organizador de Mesa,Pernambuco,37
+Organizador de Mesa,Rio Grande do Sul,56
+Organizador de Mesa,Rio de Janeiro,4
+Organizador de Mesa,Rondônia,7
+Organizador de Mesa,São Paulo,33
+Panela Elétrica de Arroz,Amazonas,10
+Panela Elétrica de Arroz,Ceará,8
+Panela Elétrica de Arroz,Distrito Federal,1
+Panela Elétrica de Arroz,Espírito Santo,3
+Panela Elétrica de Arroz,Mato Grosso do Sul,6
+Panela Elétrica de Arroz,Minas Gerais,7
+Panela Elétrica de Arroz,Paraná,2
+Panela Elétrica de Arroz,Paraíba,10
+Panela Elétrica de Arroz,Rio Grande do Sul,5
+Panela Elétrica de Arroz,Rio de Janeiro,14
+Panela Elétrica de Arroz,Rondônia,8
+Panela Elétrica de Arroz,Santa Catarina,4
+Panela Elétrica de Arroz,São Paulo,6
+Papel A4 (pacote),Bahia,3
+Papel A4 (pacote),Ceará,22
+Papel A4 (pacote),Distrito Federal,1
+Papel A4 (pacote),Espírito Santo,48
+Papel A4 (pacote),Goiás,6
+Papel A4 (pacote),Mato Grosso,8
+Papel A4 (pacote),Minas Gerais,22
+Papel A4 (pacote),Paraíba,14
+Papel A4 (pacote),Pará,11
+Papel A4 (pacote),Pernambuco,7
+Papel A4 (pacote),Rio Grande do Sul,43
+Papel A4 (pacote),Rio de Janeiro,8
+Papel A4 (pacote),Rondônia,3
+Papel A4 (pacote),Santa Catarina,22
+Papel A4 (pacote),São Paulo,35
+Pen Drive 64GB,Amazonas,7
+Pen Drive 64GB,Bahia,16
+Pen Drive 64GB,Ceará,25
+Pen Drive 64GB,Distrito Federal,2
+Pen Drive 64GB,Espírito Santo,36
+Pen Drive 64GB,Goiás,27
+Pen Drive 64GB,Mato Grosso,35
+Pen Drive 64GB,Mato Grosso do Sul,31
+Pen Drive 64GB,Minas Gerais,34
+Pen Drive 64GB,Paraná,9
+Pen Drive 64GB,Paraíba,15
+Pen Drive 64GB,Pará,5
+Pen Drive 64GB,Pernambuco,26
+Pen Drive 64GB,Rio Grande do Sul,15
+Pen Drive 64GB,Rio de Janeiro,28
+Pen Drive 64GB,Santa Catarina,39
+Pen Drive 64GB,São Paulo,27
+Relógio Analógico,Amazonas,3
+Relógio Analógico,Bahia,4
+Relógio Analógico,Ceará,4
+Relógio Analógico,Espírito Santo,7
+Relógio Analógico,Goiás,3
+Relógio Analógico,Minas Gerais,13
+Relógio Analógico,Paraná,5
+Relógio Analógico,Paraíba,2
+Relógio Analógico,Pernambuco,8
+Relógio Analógico,Rio Grande do Sul,2
+Relógio Analógico,Rio de Janeiro,5
+Relógio Analógico,Santa Catarina,10
+Relógio Analógico,São Paulo,4
+Smart TV 50,Bahia,2
+Smart TV 50,Ceará,1
+Smart TV 50,Espírito Santo,2
+Smart TV 50,Minas Gerais,1
+Smart TV 50,Paraná,2
+Smart TV 50,Paraíba,2
+Smart TV 50,Pará,1
+Smart TV 50,Pernambuco,1
+Smart TV 50,Rio Grande do Sul,1
+Smart TV 50,São Paulo,1
+Smartphone X200,Bahia,2
+Smartphone X200,Ceará,3
+Smartphone X200,Distrito Federal,2
+Smartphone X200,Espírito Santo,3
+Smartphone X200,Mato Grosso,4
+Smartphone X200,Mato Grosso do Sul,4
+Smartphone X200,Minas Gerais,4
+Smartphone X200,Paraná,2
+Smartphone X200,Pernambuco,1
+Smartphone X200,Rio Grande do Sul,4
+Smartphone X200,Rio de Janeiro,3
+Smartphone X200,Rondônia,4
+Smartphone X200,Santa Catarina,5
+Smartphone X200,São Paulo,2
+Smartwatch,Bahia,5
+Smartwatch,Ceará,4
+Smartwatch,Espírito Santo,19
+Smartwatch,Mato Grosso,8
+Smartwatch,Minas Gerais,2
+Smartwatch,Paraná,9
+Smartwatch,Paraíba,1
+Smartwatch,Pará,8
+Smartwatch,Pernambuco,5
+Smartwatch,Rio Grande do Sul,2
+Smartwatch,Rio de Janeiro,12
+Smartwatch,Santa Catarina,6
+Smartwatch,São Paulo,8
+Teclado Mecânico,Amazonas,4
+Teclado Mecânico,Bahia,3
+Teclado Mecânico,Ceará,10
+Teclado Mecânico,Espírito Santo,3
+Teclado Mecânico,Mato Grosso,11
+Teclado Mecânico,Mato Grosso do Sul,1
+Teclado Mecânico,Minas Gerais,6
+Teclado Mecânico,Paraná,18
+Teclado Mecânico,Paraíba,6
+Teclado Mecânico,Pará,4
+Teclado Mecânico,Pernambuco,1
+Teclado Mecânico,Rio Grande do Sul,2
+Teclado Mecânico,Rio de Janeiro,4
+Teclado Mecânico,Santa Catarina,11
+Teclado Mecânico,São Paulo,6
+Tênis de Corrid,Santa Catarina,1
+Tênis de Corrida,Amazonas,4
+Tênis de Corrida,Bahia,4
+Tênis de Corrida,Ceará,3
+Tênis de Corrida,Distrito Federal,5
+Tênis de Corrida,Espírito Santo,16
+Tênis de Corrida,Goiás,8
+Tênis de Corrida,Mato Grosso,2
+Tênis de Corrida,Mato Grosso do Sul,8
+Tênis de Corrida,Minas Gerais,9
+Tênis de Corrida,Paraná,16
+Tênis de Corrida,Paraíba,5
+Tênis de Corrida,Pará,1
+Tênis de Corrida,Pernambuco,7
+Tênis de Corrida,Rio Grande do Sul,13
+Tênis de Corrida,Rio de Janeiro,6
+Tênis de Corrida,Rondônia,4
+Tênis de Corrida,Santa Catarina,9
+Tênis de Corrida,São Paulo,6
+Vestido Casual,Bahia,5
+Vestido Casual,Distrito Federal,6
+Vestido Casual,Espírito Santo,16
+Vestido Casual,Goiás,4
+Vestido Casual,Mato Grosso,3
+Vestido Casual,Mato Grosso do Sul,2
+Vestido Casual,Minas Gerais,8
+Vestido Casual,Paraná,12
+Vestido Casual,Paraíba,11
+Vestido Casual,Pará,8
+Vestido Casual,Pernambuco,14
+Vestido Casual,Rio Grande do Sul,16
+Vestido Casual,Rio de Janeiro,18
+Vestido Casual,Rondônia,4
+Vestido Casual,Santa Catarina,5
+Vestido Casual,São Paulo,13
+Óculos de Sol,Amazonas,4
+Óculos de Sol,Bahia,4
+Óculos de Sol,Ceará,8
+Óculos de Sol,Distrito Federal,6
+Óculos de Sol,Espírito Santo,10
+Óculos de Sol,Goiás,5
+Óculos de Sol,Mato Grosso,14
+Óculos de Sol,Minas Gerais,16
+Óculos de Sol,Paraíba,10
+Óculos de Sol,Pará,1
+Óculos de Sol,Pernambuco,2
+Óculos de Sol,Rio Grande do Sul,12
+Óculos de Sol,Rio de Janeiro,8
+Óculos de Sol,Rondônia,6
+Óculos de Sol,Santa Catarina,13
+Óculos de Sol,São Paulo,14
